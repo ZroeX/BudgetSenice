@@ -1,7 +1,7 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
 
-namespace BudgetSenice
+namespace BudgetSeniceProject
 {
 	[TestClass]
 	public class UnitTest1
